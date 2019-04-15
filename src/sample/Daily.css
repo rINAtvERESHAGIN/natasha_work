@@ -1,0 +1,20 @@
+.button {
+    -fx-text-fill: black;
+    -fx-background-color: #388069;
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+}
+/*Мне нужен переключатель , 
+который будет менять стили , что-то 
+типа выпадающего списка , куда можнно будет 
+навесить разные стили*/
+.label {
+}
+
+.text-field{
+
+}
+
+.root {
+    -fx-background-image: url(/sample/DailyResourse/dezeen_daily.png);
+}
